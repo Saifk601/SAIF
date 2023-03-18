@@ -1,0 +1,15 @@
+.container {
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+button {
+    background-color: black;
+    color:white;
+    
+}
+span {
+    color: white;
+    position:fixed;
+    left:20px;
+}
